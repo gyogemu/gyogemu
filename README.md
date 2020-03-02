@@ -36,7 +36,7 @@ Projects files for Intellij are also included
 * These tests were developed using a TDD approach creating failing tests first. 
 * Class and line code coverage is almost 100%.
 * Normally I'd add a few sanity journey style integration tests as well but left them out in this example.
-* Also normally i'd add some testing on the client using a mock server but left this out too due to time constraints.
+* Also normally i'd add some testing on the client using a mock server but left this out and performed manual tessting instead.
 
 ## Assumptions
 * Server does not use any storage, uses an in memory map at the DB layer instead to keep the example simple.
