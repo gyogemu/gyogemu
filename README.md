@@ -41,6 +41,6 @@ Projects files for Intellij are also included
 ## Assumptions
 * Server does not use any storage, uses an in memory map at the DB layer instead to keep the example simple.
 * There is no automatic removal of completed games.
-* there is no authorization on API access for simplicity sake.
+* There is no authorization on API access for simplicity sake.
 * The client code is a bit scrappy, focus was on the rest service and its tests mostly.
 
